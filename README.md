@@ -32,3 +32,6 @@ validation the best value of
 I have trained the model on three classifiers mentioned above after optimizing the value of lambdas (No 
 of tress in adaboost, random forest and the C in SVM) and other hyper parameters sigma, orientation, 
 pixels per cell and block 
+
+
+# I am expecting test accuracy between 0.80-0.85 as shown in the above mean results and also in 67-33 split
